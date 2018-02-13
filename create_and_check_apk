@@ -1,0 +1,16 @@
+#!/bin/sh
+
+if hash aapt 2>/dev/null; then
+    ./gradlew clean assembleDebug --no-build-cache
+
+    /Users/gzpjpk/Library/Android/sdk/build-tools/27.0.3/aapt dump --values resources app/build/outputs/apk/debug/app-debug.apk | nl -ba | grep -C3 $'\r'
+
+    if [ $? -eq 0 ]; then
+        echo "Carriage return found. API is invalid."
+    else
+        echo "APK is valid."
+    fi
+else
+    echo "aapt not found"
+    exit 1
+fi
