@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="analytics.user_action.tap.hard_acceleration">smart_driver.tap.hard_acceleration</string>
+    <string name="analytics.context.departure_schedule.day_of_week.sunday">analytics.context.departure_schedule.day_of_week.sunday</string>
+    <string name="analytics.garage.add_vehicle">analytics.garage.add_vehicle</string>
+    <string name="analytics.user_action.tap.call_roadside_assistance">analytics.user_action.tap.call_roadside_assistance</string>
+    <string name="analytics.user_action.idle_time">smart_driver.idle_time</string>
+    <string name="analytics.user_action.navigation.view_contacts">View Contacts</string>
+    <string name="accessibility.label.on">\ucf1c\uc9d0</string>
+    <string name="analytics.keypass.learn_more">analytics.keypass.learn_more</string>
+    <string name="analytics.account.account_info">analytics.account.account_info</string>
+    <string name="analytics.user_action.tap.privacy_policy_agree">analytics.user_action.tap.privacy_policy_agree</string>
+    <string name="analytics.user_action.tap.eula_phone_number">analytics.user_action.tap.eula_phone_number</string>
+    <string name="analytics.screen_view.required_maintenance_input">analytics.screen_view.required_maintenance_input</string>
+    <string name="accessibility.label.kpa">KPA</string>
+    <string name="analytics.edit_dashboard.rordered_higher">analytics.edit_dashboard.rordered_higher</string>
+    <string name="assistance.roadside.title">\uae34\uae09\ucd9c\ub3d9\uc11c\ube44\uc2a4</string>
+    <string name="analytics.user_action.tap.casl_agree">analytics.user_action.tap.casl_agree</string>
+    <string name="analytics.upsell.card_tap.wifi">analytics.upsell.card_tap.wifi</string>
+    <string name="button.label.redeem_offer">\uc5ec\uae30\ub97c \ud074\ub9ad\ud558\uc5ec \ud2b9\ubcc4 \ud560\uc778 \uc0ac\uc6a9</string>
+    <string name="account.label.onstar_plan">OnStar \uc694\uae08\uc81c</string>
+    <string name="assistance.vehicle_specific.description">%1$s \uace0\uac1d \uc5b4\ub4dc\ubc14\uc774\uc800\uac00 \ud574\ub2f9 \ucc28\ub7c9\uc5d0 \ub300\ud55c \uc9c8\ubb38\uc5d0 \ub300\ub2f5\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4.</string>
+</resources>
